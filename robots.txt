@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://phichiezae.diekonsonanten.de/sitemap.xml
